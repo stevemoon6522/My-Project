@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+test_output/
+weverse_output/
+*.egg-info/
+.env
